@@ -1,0 +1,501 @@
+order_id,product,category,quantity,price,order_date,customer_id,region
+1,Cadeira,Acessórios,3,1062.33,2023-01-01,1046,Sul
+2,Monitor,Acessórios,1,827.34,2023-01-02,1011,Leste
+3,Teclado,Acessórios,1,498.82,2023-01-03,1061,Leste
+4,Cadeira,Acessórios,4,1230.0,2023-01-04,1079,Leste
+5,Tablet,Eletrônicos,3,1042.86,2023-01-05,1087,Leste
+6,Fone de ouvido,Acessórios,1,285.79,2023-01-06,1082,Leste
+7,Teclado,Acessórios,4,1370.84,2023-01-07,1007,Oeste
+8,Teclado,Acessórios,3,1242.68,2023-01-08,1094,Oeste
+9,Cadeira,Acessórios,4,1427.21,2023-01-09,1020,Oeste
+10,Smartphone,Eletrônicos,2,1102.29,2023-01-10,1080,Sul
+11,Tablet,Eletrônicos,1,939.45,2023-01-11,1086,Sul
+12,Cadeira,Acessórios,2,656.45,2023-01-12,1079,Sul
+13,Tablet,Eletrônicos,3,1402.46,2023-01-13,1069,Sul
+14,Tablet,Eletrônicos,2,1305.79,2023-01-14,1071,Leste
+15,Fone de ouvido,Acessórios,2,115.57,2023-01-15,1024,Leste
+16,Teclado,Acessórios,3,88.23,2023-01-16,1081,Leste
+17,Monitor,Acessórios,4,595.87,2023-01-17,1088,Norte
+18,Fone de ouvido,Acessórios,2,1225.3,2023-01-18,1011,Oeste
+19,Fone de ouvido,Acessórios,4,1481.55,2023-01-19,1014,Sul
+20,Tablet,Eletrônicos,2,268.1,2023-01-20,1058,Sul
+21,Mouse,Acessórios,4,911.49,2023-01-21,1025,Leste
+22,Teclado,Acessórios,3,602.29,2023-01-22,1025,Sul
+23,Smartphone,Eletrônicos,2,1456.38,2023-01-23,1046,Sul
+24,Fone de ouvido,Acessórios,3,1271.07,2023-01-24,1031,Oeste
+25,Monitor,Acessórios,2,1265.58,2023-01-25,1009,Leste
+26,Mouse,Acessórios,3,729.61,2023-01-26,1015,Oeste
+27,Mouse,Acessórios,3,651.49,2023-01-27,1070,Norte
+28,Smartphone,Eletrônicos,2,446.44,2023-01-28,1016,Norte
+29,Fone de ouvido,Acessórios,2,131.74,2023-01-29,1022,Norte
+30,Monitor,Acessórios,2,1303.85,2023-01-30,1025,Leste
+31,Teclado,Acessórios,1,1228.71,2023-01-31,1084,Sul
+32,Notebook,Eletrônicos,4,1499.59,2023-02-01,1085,Leste
+33,Monitor,Acessórios,1,1495.12,2023-02-02,1006,Leste
+34,Smartphone,Eletrônicos,1,855.38,2023-02-03,1013,Sul
+35,Mouse,Acessórios,3,1165.03,2023-02-04,1078,Oeste
+36,Teclado,Acessórios,2,1419.91,2023-02-05,1006,Norte
+37,Monitor,Acessórios,4,1281.99,2023-02-06,1008,Oeste
+38,Notebook,Eletrônicos,3,408.65,2023-02-07,1047,Norte
+39,Notebook,Eletrônicos,1,703.29,2023-02-08,1071,Leste
+40,Tablet,Eletrônicos,2,237.28,2023-02-09,1058,Norte
+41,Tablet,Eletrônicos,3,1433.37,2023-02-10,1086,Leste
+42,Cadeira,Acessórios,2,928.95,2023-02-11,1092,Oeste
+43,Smartphone,Eletrônicos,3,381.53,2023-02-12,1081,Leste
+44,Fone de ouvido,Acessórios,2,1023.97,2023-02-13,1094,Oeste
+45,Monitor,Acessórios,1,946.29,2023-02-14,1093,Sul
+46,Monitor,Acessórios,4,569.34,2023-02-15,1038,Sul
+47,Fone de ouvido,Acessórios,1,214.66,2023-02-16,1098,Sul
+48,Cadeira,Acessórios,4,1023.78,2023-02-17,1017,Leste
+49,Mouse,Acessórios,2,804.45,2023-02-18,1058,Sul
+50,Mouse,Acessórios,3,1169.86,2023-02-19,1016,Norte
+51,Cadeira,Acessórios,1,804.24,2023-02-20,1013,Oeste
+52,Mouse,Acessórios,4,1285.66,2023-02-21,1030,Oeste
+53,Tablet,Eletrônicos,1,850.26,2023-02-22,1023,Norte
+54,Monitor,Acessórios,4,863.36,2023-02-23,1098,Leste
+55,Cadeira,Acessórios,1,1321.15,2023-02-24,1059,Leste
+56,Monitor,Acessórios,4,635.05,2023-02-25,1044,Oeste
+57,Fone de ouvido,Acessórios,4,244.32,2023-02-26,1097,Sul
+58,Notebook,Eletrônicos,2,91.73,2023-02-27,1002,Leste
+59,Tablet,Eletrônicos,4,1144.95,2023-02-28,1036,Leste
+60,Teclado,Acessórios,2,949.45,2023-03-01,1042,Norte
+61,Tablet,Eletrônicos,4,1070.92,2023-03-02,1039,Norte
+62,Cadeira,Acessórios,3,358.8,2023-03-03,1089,Sul
+63,Teclado,Acessórios,3,247.74,2023-03-04,1054,Leste
+64,Notebook,Eletrônicos,3,71.09,2023-03-05,1086,Leste
+65,Cadeira,Acessórios,4,558.35,2023-03-06,1038,Norte
+66,Smartphone,Eletrônicos,2,905.38,2023-03-07,1014,Leste
+67,Monitor,Acessórios,2,618.75,2023-03-08,1003,Oeste
+68,Notebook,Eletrônicos,4,684.34,2023-03-09,1092,Norte
+69,Monitor,Acessórios,3,1361.03,2023-03-10,1085,Sul
+70,Mouse,Acessórios,3,554.97,2023-03-11,1024,Norte
+71,Smartphone,Eletrônicos,2,795.28,2023-03-12,1012,Leste
+72,Smartphone,Eletrônicos,3,1186.3,2023-03-13,1081,Sul
+73,Notebook,Eletrônicos,1,624.99,2023-03-14,1032,Norte
+74,Smartphone,Eletrônicos,2,952.03,2023-03-15,1015,Oeste
+75,Teclado,Acessórios,3,1300.43,2023-03-16,1041,Oeste
+76,Smartphone,Eletrônicos,2,1426.8,2023-03-17,1065,Norte
+77,Monitor,Acessórios,1,263.26,2023-03-18,1054,Oeste
+78,Monitor,Acessórios,2,1393.55,2023-03-19,1098,Oeste
+79,Cadeira,Acessórios,2,763.57,2023-03-20,1041,Oeste
+80,Monitor,Acessórios,2,424.45,2023-03-21,1033,Sul
+81,Cadeira,Acessórios,2,715.75,2023-03-22,1029,Oeste
+82,Monitor,Acessórios,1,1471.05,2023-03-23,1012,Oeste
+83,Teclado,Acessórios,4,764.3,2023-03-24,1012,Oeste
+84,Fone de ouvido,Acessórios,2,526.69,2023-03-25,1017,Sul
+85,Cadeira,Acessórios,2,968.43,2023-03-26,1031,Norte
+86,Tablet,Eletrônicos,3,398.21,2023-03-27,1095,Leste
+87,Mouse,Acessórios,2,160.0,2023-03-28,1098,Oeste
+88,Notebook,Eletrônicos,3,236.88,2023-03-29,1038,Norte
+89,Monitor,Acessórios,4,235.67,2023-03-30,1045,Oeste
+90,Smartphone,Eletrônicos,1,270.26,2023-03-31,1028,Sul
+91,Fone de ouvido,Acessórios,1,251.3,2023-04-01,1061,Norte
+92,Monitor,Acessórios,4,979.27,2023-04-02,1092,Sul
+93,Smartphone,Eletrônicos,1,313.73,2023-04-03,1061,Oeste
+94,Mouse,Acessórios,4,551.22,2023-04-04,1056,Oeste
+95,Mouse,Acessórios,4,1350.34,2023-04-05,1015,Sul
+96,Mouse,Acessórios,4,737.24,2023-04-06,1055,Leste
+97,Smartphone,Eletrônicos,1,1017.96,2023-04-07,1009,Sul
+98,Monitor,Acessórios,3,299.86,2023-04-08,1029,Oeste
+99,Mouse,Acessórios,4,328.82,2023-04-09,1024,Sul
+100,Teclado,Acessórios,2,109.26,2023-04-10,1083,Leste
+101,Cadeira,Acessórios,1,294.96,2023-04-11,1004,Sul
+102,Smartphone,Eletrônicos,4,453.96,2023-04-12,1064,Leste
+103,Smartphone,Eletrônicos,4,306.67,2023-04-13,1093,Leste
+104,Monitor,Acessórios,2,178.62,2023-04-14,1048,Sul
+105,Smartphone,Eletrônicos,3,224.92,2023-04-15,1002,Sul
+106,Smartphone,Eletrônicos,3,718.13,2023-04-16,1044,Norte
+107,Mouse,Acessórios,3,349.18,2023-04-17,1013,Oeste
+108,Monitor,Acessórios,4,578.19,2023-04-18,1029,Leste
+109,Mouse,Acessórios,4,779.96,2023-04-19,1067,Norte
+110,Cadeira,Acessórios,4,1051.07,2023-04-20,1017,Sul
+111,Fone de ouvido,Acessórios,1,107.0,2023-04-21,1061,Oeste
+112,Cadeira,Acessórios,2,1209.15,2023-04-22,1036,Norte
+113,Fone de ouvido,Acessórios,4,960.46,2023-04-23,1024,Leste
+114,Mouse,Acessórios,2,168.55,2023-04-24,1047,Norte
+115,Cadeira,Acessórios,2,1316.69,2023-04-25,1064,Leste
+116,Monitor,Acessórios,3,1385.26,2023-04-26,1052,Sul
+117,Notebook,Eletrônicos,1,138.56,2023-04-27,1078,Oeste
+118,Mouse,Acessórios,4,451.47,2023-04-28,1072,Oeste
+119,Fone de ouvido,Acessórios,3,1218.99,2023-04-29,1014,Oeste
+120,Teclado,Acessórios,3,1134.98,2023-04-30,1048,Sul
+121,Fone de ouvido,Acessórios,4,317.56,2023-05-01,1087,Leste
+122,Teclado,Acessórios,2,353.56,2023-05-02,1067,Sul
+123,Smartphone,Eletrônicos,3,587.18,2023-05-03,1011,Oeste
+124,Cadeira,Acessórios,2,752.56,2023-05-04,1058,Sul
+125,Teclado,Acessórios,1,946.47,2023-05-05,1036,Sul
+126,Fone de ouvido,Acessórios,2,584.92,2023-05-06,1060,Sul
+127,Smartphone,Eletrônicos,1,720.68,2023-05-07,1042,Leste
+128,Notebook,Eletrônicos,2,1133.83,2023-05-08,1069,Norte
+129,Monitor,Acessórios,3,103.19,2023-05-09,1038,Norte
+130,Monitor,Acessórios,3,416.03,2023-05-10,1055,Sul
+131,Monitor,Acessórios,1,1084.36,2023-05-11,1062,Norte
+132,Teclado,Acessórios,4,1348.05,2023-05-12,1045,Norte
+133,Notebook,Eletrônicos,1,791.93,2023-05-13,1087,Sul
+134,Teclado,Acessórios,1,821.56,2023-05-14,1010,Sul
+135,Cadeira,Acessórios,2,205.4,2023-05-15,1061,Oeste
+136,Teclado,Acessórios,2,698.75,2023-05-16,1076,Norte
+137,Notebook,Eletrônicos,1,822.3,2023-05-17,1097,Leste
+138,Notebook,Eletrônicos,3,401.58,2023-05-18,1024,Sul
+139,Cadeira,Acessórios,2,440.4,2023-05-19,1070,Oeste
+140,Notebook,Eletrônicos,4,597.06,2023-05-20,1051,Leste
+141,Fone de ouvido,Acessórios,2,79.1,2023-05-21,1003,Norte
+142,Notebook,Eletrônicos,2,517.01,2023-05-22,1058,Oeste
+143,Monitor,Acessórios,4,356.6,2023-05-23,1071,Sul
+144,Fone de ouvido,Acessórios,1,524.87,2023-05-24,1019,Leste
+145,Fone de ouvido,Acessórios,4,223.66,2023-05-25,1092,Sul
+146,Cadeira,Acessórios,1,1341.26,2023-05-26,1062,Norte
+147,Tablet,Eletrônicos,1,910.71,2023-05-27,1053,Leste
+148,Tablet,Eletrônicos,1,1034.7,2023-05-28,1073,Norte
+149,Notebook,Eletrônicos,4,1194.3,2023-05-29,1097,Norte
+150,Fone de ouvido,Acessórios,1,772.74,2023-05-30,1056,Oeste
+151,Tablet,Eletrônicos,3,176.03,2023-05-31,1089,Sul
+152,Tablet,Eletrônicos,4,828.8,2023-06-01,1040,Leste
+153,Notebook,Eletrônicos,3,900.92,2023-06-02,1002,Norte
+154,Tablet,Eletrônicos,1,1130.89,2023-06-03,1005,Norte
+155,Teclado,Acessórios,2,675.91,2023-06-04,1004,Leste
+156,Smartphone,Eletrônicos,1,234.99,2023-06-05,1004,Norte
+157,Cadeira,Acessórios,3,461.48,2023-06-06,1053,Oeste
+158,Smartphone,Eletrônicos,3,576.47,2023-06-07,1046,Oeste
+159,Notebook,Eletrônicos,4,986.58,2023-06-08,1086,Oeste
+160,Monitor,Acessórios,2,877.63,2023-06-09,1048,Oeste
+161,Cadeira,Acessórios,4,566.34,2023-06-10,1008,Norte
+162,Notebook,Eletrônicos,3,1480.45,2023-06-11,1098,Leste
+163,Fone de ouvido,Acessórios,1,928.37,2023-06-12,1019,Leste
+164,Monitor,Acessórios,2,393.98,2023-06-13,1060,Leste
+165,Smartphone,Eletrônicos,1,197.58,2023-06-14,1034,Leste
+166,Notebook,Eletrônicos,1,271.65,2023-06-15,1049,Sul
+167,Fone de ouvido,Acessórios,2,406.64,2023-06-16,1081,Leste
+168,Cadeira,Acessórios,4,282.99,2023-06-17,1061,Sul
+169,Cadeira,Acessórios,1,320.52,2023-06-18,1016,Sul
+170,Mouse,Acessórios,3,463.39,2023-06-19,1087,Oeste
+171,Fone de ouvido,Acessórios,1,301.39,2023-06-20,1002,Sul
+172,Teclado,Acessórios,2,1350.31,2023-06-21,1031,Norte
+173,Tablet,Eletrônicos,2,166.34,2023-06-22,1098,Sul
+174,Monitor,Acessórios,2,810.54,2023-06-23,1012,Oeste
+175,Fone de ouvido,Acessórios,4,645.08,2023-06-24,1088,Sul
+176,Mouse,Acessórios,1,1474.45,2023-06-25,1072,Norte
+177,Tablet,Eletrônicos,4,212.46,2023-06-26,1067,Norte
+178,Tablet,Eletrônicos,4,626.89,2023-06-27,1013,Norte
+179,Notebook,Eletrônicos,2,1455.73,2023-06-28,1097,Oeste
+180,Tablet,Eletrônicos,2,1304.99,2023-06-29,1010,Oeste
+181,Teclado,Acessórios,4,1234.75,2023-06-30,1055,Leste
+182,Cadeira,Acessórios,1,423.96,2023-07-01,1066,Oeste
+183,Mouse,Acessórios,3,297.79,2023-07-02,1091,Norte
+184,Tablet,Eletrônicos,4,1019.53,2023-07-03,1028,Norte
+185,Notebook,Eletrônicos,1,1397.6,2023-07-04,1008,Oeste
+186,Teclado,Acessórios,2,857.31,2023-07-05,1066,Sul
+187,Smartphone,Eletrônicos,2,878.84,2023-07-06,1024,Oeste
+188,Cadeira,Acessórios,1,455.97,2023-07-07,1097,Oeste
+189,Cadeira,Acessórios,3,1165.76,2023-07-08,1075,Norte
+190,Mouse,Acessórios,2,321.21,2023-07-09,1041,Leste
+191,Cadeira,Acessórios,2,519.33,2023-07-10,1008,Norte
+192,Tablet,Eletrônicos,2,666.88,2023-07-11,1078,Leste
+193,Notebook,Eletrônicos,1,786.04,2023-07-12,1039,Norte
+194,Cadeira,Acessórios,4,401.49,2023-07-13,1024,Oeste
+195,Cadeira,Acessórios,2,216.51,2023-07-14,1004,Norte
+196,Smartphone,Eletrônicos,4,935.4,2023-07-15,1010,Norte
+197,Smartphone,Eletrônicos,3,468.51,2023-07-16,1058,Norte
+198,Monitor,Acessórios,2,892.8,2023-07-17,1097,Oeste
+199,Teclado,Acessórios,2,273.83,2023-07-18,1087,Oeste
+200,Tablet,Eletrônicos,3,747.65,2023-07-19,1078,Oeste
+201,Cadeira,Acessórios,2,822.25,2023-07-20,1037,Oeste
+202,Fone de ouvido,Acessórios,4,125.14,2023-07-21,1071,Leste
+203,Cadeira,Acessórios,1,538.08,2023-07-22,1004,Leste
+204,Notebook,Eletrônicos,4,244.9,2023-07-23,1047,Sul
+205,Monitor,Acessórios,1,141.89,2023-07-24,1089,Oeste
+206,Teclado,Acessórios,1,1485.44,2023-07-25,1017,Leste
+207,Fone de ouvido,Acessórios,4,517.41,2023-07-26,1069,Norte
+208,Monitor,Acessórios,4,1224.32,2023-07-27,1036,Oeste
+209,Mouse,Acessórios,4,419.23,2023-07-28,1059,Sul
+210,Teclado,Acessórios,4,1038.18,2023-07-29,1047,Sul
+211,Cadeira,Acessórios,3,1152.33,2023-07-30,1076,Sul
+212,Cadeira,Acessórios,2,913.68,2023-07-31,1027,Norte
+213,Teclado,Acessórios,1,733.79,2023-08-01,1068,Leste
+214,Cadeira,Acessórios,4,647.17,2023-08-02,1076,Norte
+215,Tablet,Eletrônicos,4,555.86,2023-08-03,1080,Oeste
+216,Teclado,Acessórios,4,1397.82,2023-08-04,1039,Sul
+217,Monitor,Acessórios,3,1254.4,2023-08-05,1044,Norte
+218,Teclado,Acessórios,4,1449.29,2023-08-06,1095,Norte
+219,Fone de ouvido,Acessórios,4,230.23,2023-08-07,1061,Leste
+220,Cadeira,Acessórios,4,1109.76,2023-08-08,1092,Leste
+221,Tablet,Eletrônicos,2,1410.59,2023-08-09,1057,Sul
+222,Tablet,Eletrônicos,3,312.79,2023-08-10,1066,Norte
+223,Mouse,Acessórios,4,146.42,2023-08-11,1055,Norte
+224,Monitor,Acessórios,1,1124.62,2023-08-12,1039,Leste
+225,Smartphone,Eletrônicos,1,882.99,2023-08-13,1097,Norte
+226,Smartphone,Eletrônicos,1,1270.65,2023-08-14,1039,Norte
+227,Teclado,Acessórios,3,252.67,2023-08-15,1090,Norte
+228,Mouse,Acessórios,3,1203.14,2023-08-16,1076,Leste
+229,Notebook,Eletrônicos,1,342.36,2023-08-17,1032,Sul
+230,Teclado,Acessórios,4,287.3,2023-08-18,1005,Oeste
+231,Mouse,Acessórios,3,288.19,2023-08-19,1087,Sul
+232,Monitor,Acessórios,1,1231.13,2023-08-20,1018,Oeste
+233,Monitor,Acessórios,1,1014.54,2023-08-21,1079,Norte
+234,Monitor,Acessórios,4,808.44,2023-08-22,1039,Sul
+235,Monitor,Acessórios,2,570.3,2023-08-23,1091,Oeste
+236,Monitor,Acessórios,3,1321.94,2023-08-24,1096,Leste
+237,Mouse,Acessórios,4,619.05,2023-08-25,1058,Leste
+238,Mouse,Acessórios,1,1234.07,2023-08-26,1058,Sul
+239,Tablet,Eletrônicos,1,686.75,2023-08-27,1047,Sul
+240,Fone de ouvido,Acessórios,4,596.57,2023-08-28,1040,Norte
+241,Smartphone,Eletrônicos,3,720.89,2023-08-29,1012,Sul
+242,Cadeira,Acessórios,2,487.0,2023-08-30,1044,Norte
+243,Monitor,Acessórios,2,1134.03,2023-08-31,1088,Norte
+244,Notebook,Eletrônicos,1,778.94,2023-09-01,1052,Leste
+245,Cadeira,Acessórios,3,386.71,2023-09-02,1041,Leste
+246,Mouse,Acessórios,2,1354.38,2023-09-03,1099,Oeste
+247,Notebook,Eletrônicos,3,606.64,2023-09-04,1062,Leste
+248,Notebook,Eletrônicos,3,838.15,2023-09-05,1026,Leste
+249,Notebook,Eletrônicos,1,1364.38,2023-09-06,1037,Sul
+250,Tablet,Eletrônicos,2,955.15,2023-09-07,1059,Leste
+251,Mouse,Acessórios,4,219.5,2023-09-08,1006,Oeste
+252,Notebook,Eletrônicos,1,1412.76,2023-09-09,1004,Sul
+253,Monitor,Acessórios,2,960.18,2023-09-10,1044,Oeste
+254,Teclado,Acessórios,2,535.61,2023-09-11,1057,Leste
+255,Notebook,Eletrônicos,2,251.94,2023-09-12,1030,Oeste
+256,Tablet,Eletrônicos,2,1201.34,2023-09-13,1022,Sul
+257,Cadeira,Acessórios,2,949.11,2023-09-14,1041,Norte
+258,Mouse,Acessórios,3,823.52,2023-09-15,1009,Oeste
+259,Fone de ouvido,Acessórios,1,1346.14,2023-09-16,1031,Oeste
+260,Tablet,Eletrônicos,3,1193.47,2023-09-17,1052,Sul
+261,Notebook,Eletrônicos,4,269.93,2023-09-18,1029,Sul
+262,Mouse,Acessórios,2,502.0,2023-09-19,1038,Oeste
+263,Teclado,Acessórios,1,410.31,2023-09-20,1030,Leste
+264,Notebook,Eletrônicos,2,1128.72,2023-09-21,1081,Oeste
+265,Tablet,Eletrônicos,1,98.62,2023-09-22,1099,Sul
+266,Smartphone,Eletrônicos,3,876.34,2023-09-23,1001,Norte
+267,Monitor,Acessórios,1,1155.57,2023-09-24,1077,Norte
+268,Fone de ouvido,Acessórios,4,1321.31,2023-09-25,1076,Leste
+269,Cadeira,Acessórios,4,546.02,2023-09-26,1092,Oeste
+270,Tablet,Eletrônicos,1,1240.82,2023-09-27,1011,Norte
+271,Mouse,Acessórios,1,210.42,2023-09-28,1038,Oeste
+272,Fone de ouvido,Acessórios,1,1277.36,2023-09-29,1065,Sul
+273,Fone de ouvido,Acessórios,1,234.86,2023-09-30,1095,Norte
+274,Fone de ouvido,Acessórios,4,626.07,2023-10-01,1012,Leste
+275,Notebook,Eletrônicos,2,1206.08,2023-10-02,1045,Sul
+276,Monitor,Acessórios,1,267.38,2023-10-03,1026,Leste
+277,Notebook,Eletrônicos,1,382.41,2023-10-04,1016,Sul
+278,Mouse,Acessórios,4,1097.27,2023-10-05,1094,Norte
+279,Notebook,Eletrônicos,4,1094.05,2023-10-06,1097,Leste
+280,Smartphone,Eletrônicos,3,979.66,2023-10-07,1059,Leste
+281,Monitor,Acessórios,1,1056.23,2023-10-08,1063,Sul
+282,Monitor,Acessórios,3,836.95,2023-10-09,1087,Leste
+283,Mouse,Acessórios,4,415.11,2023-10-10,1034,Sul
+284,Cadeira,Acessórios,4,551.26,2023-10-11,1069,Sul
+285,Smartphone,Eletrônicos,2,313.32,2023-10-12,1082,Sul
+286,Tablet,Eletrônicos,1,1367.25,2023-10-13,1029,Sul
+287,Notebook,Eletrônicos,3,895.92,2023-10-14,1070,Norte
+288,Teclado,Acessórios,4,631.23,2023-10-15,1073,Sul
+289,Notebook,Eletrônicos,4,719.91,2023-10-16,1095,Oeste
+290,Fone de ouvido,Acessórios,3,1423.56,2023-10-17,1097,Leste
+291,Notebook,Eletrônicos,2,272.36,2023-10-18,1062,Oeste
+292,Tablet,Eletrônicos,4,900.03,2023-10-19,1027,Norte
+293,Notebook,Eletrônicos,1,783.54,2023-10-20,1059,Oeste
+294,Smartphone,Eletrônicos,4,936.61,2023-10-21,1078,Leste
+295,Smartphone,Eletrônicos,1,76.26,2023-10-22,1093,Oeste
+296,Monitor,Acessórios,3,1314.58,2023-10-23,1036,Norte
+297,Mouse,Acessórios,1,1401.57,2023-10-24,1092,Sul
+298,Cadeira,Acessórios,3,869.44,2023-10-25,1021,Oeste
+299,Teclado,Acessórios,1,1060.14,2023-10-26,1067,Norte
+300,Fone de ouvido,Acessórios,3,1387.62,2023-10-27,1019,Norte
+301,Notebook,Eletrônicos,1,1075.5,2023-10-28,1095,Leste
+302,Notebook,Eletrônicos,2,271.18,2023-10-29,1099,Leste
+303,Tablet,Eletrônicos,1,885.62,2023-10-30,1067,Oeste
+304,Mouse,Acessórios,1,929.74,2023-10-31,1090,Sul
+305,Smartphone,Eletrônicos,2,664.99,2023-11-01,1063,Norte
+306,Teclado,Acessórios,4,1117.84,2023-11-02,1016,Oeste
+307,Monitor,Acessórios,4,1404.83,2023-11-03,1011,Norte
+308,Smartphone,Eletrônicos,1,1392.07,2023-11-04,1021,Norte
+309,Fone de ouvido,Acessórios,2,703.72,2023-11-05,1016,Sul
+310,Mouse,Acessórios,1,214.2,2023-11-06,1009,Sul
+311,Fone de ouvido,Acessórios,3,1478.02,2023-11-07,1064,Oeste
+312,Cadeira,Acessórios,3,1266.4,2023-11-08,1021,Sul
+313,Monitor,Acessórios,1,230.76,2023-11-09,1089,Sul
+314,Cadeira,Acessórios,4,1385.22,2023-11-10,1081,Oeste
+315,Tablet,Eletrônicos,4,1311.35,2023-11-11,1049,Sul
+316,Fone de ouvido,Acessórios,1,802.32,2023-11-12,1013,Leste
+317,Tablet,Eletrônicos,1,907.35,2023-11-13,1063,Norte
+318,Notebook,Eletrônicos,3,628.55,2023-11-14,1046,Norte
+319,Cadeira,Acessórios,4,129.4,2023-11-15,1028,Norte
+320,Mouse,Acessórios,1,536.04,2023-11-16,1075,Norte
+321,Fone de ouvido,Acessórios,3,1214.14,2023-11-17,1035,Oeste
+322,Teclado,Acessórios,4,56.72,2023-11-18,1098,Norte
+323,Monitor,Acessórios,2,533.57,2023-11-19,1051,Norte
+324,Smartphone,Eletrônicos,3,627.34,2023-11-20,1075,Norte
+325,Mouse,Acessórios,4,829.22,2023-11-21,1006,Norte
+326,Mouse,Acessórios,4,1383.79,2023-11-22,1028,Leste
+327,Tablet,Eletrônicos,3,552.2,2023-11-23,1010,Norte
+328,Cadeira,Acessórios,2,553.08,2023-11-24,1032,Leste
+329,Fone de ouvido,Acessórios,3,1119.38,2023-11-25,1005,Oeste
+330,Fone de ouvido,Acessórios,4,705.72,2023-11-26,1078,Sul
+331,Notebook,Eletrônicos,1,375.68,2023-11-27,1031,Norte
+332,Notebook,Eletrônicos,1,706.04,2023-11-28,1050,Sul
+333,Monitor,Acessórios,3,254.24,2023-11-29,1074,Sul
+334,Tablet,Eletrônicos,4,305.76,2023-11-30,1057,Oeste
+335,Mouse,Acessórios,1,772.63,2023-12-01,1086,Sul
+336,Fone de ouvido,Acessórios,4,657.44,2023-12-02,1025,Leste
+337,Teclado,Acessórios,3,1376.53,2023-12-03,1097,Sul
+338,Tablet,Eletrônicos,1,575.47,2023-12-04,1045,Sul
+339,Monitor,Acessórios,4,891.85,2023-12-05,1097,Sul
+340,Monitor,Acessórios,1,966.78,2023-12-06,1028,Norte
+341,Tablet,Eletrônicos,3,68.99,2023-12-07,1003,Norte
+342,Monitor,Acessórios,4,1012.13,2023-12-08,1080,Leste
+343,Tablet,Eletrônicos,1,308.15,2023-12-09,1098,Leste
+344,Smartphone,Eletrônicos,3,1443.55,2023-12-10,1012,Norte
+345,Tablet,Eletrônicos,1,265.56,2023-12-11,1038,Leste
+346,Cadeira,Acessórios,1,651.2,2023-12-12,1014,Norte
+347,Tablet,Eletrônicos,2,173.76,2023-12-13,1028,Oeste
+348,Monitor,Acessórios,2,1495.47,2023-12-14,1028,Sul
+349,Fone de ouvido,Acessórios,3,778.18,2023-12-15,1074,Sul
+350,Cadeira,Acessórios,2,913.31,2023-12-16,1031,Leste
+351,Monitor,Acessórios,3,147.26,2023-12-17,1001,Norte
+352,Notebook,Eletrônicos,2,1137.44,2023-12-18,1046,Norte
+353,Notebook,Eletrônicos,1,354.36,2023-12-19,1077,Leste
+354,Fone de ouvido,Acessórios,3,1352.18,2023-12-20,1083,Norte
+355,Fone de ouvido,Acessórios,3,347.45,2023-12-21,1021,Oeste
+356,Cadeira,Acessórios,1,326.5,2023-12-22,1074,Sul
+357,Smartphone,Eletrônicos,3,103.0,2023-12-23,1026,Leste
+358,Fone de ouvido,Acessórios,3,734.5,2023-12-24,1066,Leste
+359,Notebook,Eletrônicos,2,869.02,2023-12-25,1080,Norte
+360,Tablet,Eletrônicos,3,145.28,2023-12-26,1055,Leste
+361,Monitor,Acessórios,4,1174.52,2023-12-27,1091,Oeste
+362,Notebook,Eletrônicos,1,707.27,2023-12-28,1092,Norte
+363,Notebook,Eletrônicos,2,810.37,2023-12-29,1020,Norte
+364,Smartphone,Eletrônicos,2,689.11,2023-12-30,1046,Norte
+365,Cadeira,Acessórios,4,631.11,2023-12-31,1079,Norte
+366,Cadeira,Acessórios,1,861.48,2024-01-01,1058,Oeste
+367,Mouse,Acessórios,1,275.1,2024-01-02,1083,Norte
+368,Smartphone,Eletrônicos,2,313.8,2024-01-03,1005,Leste
+369,Tablet,Eletrônicos,3,1299.59,2024-01-04,1018,Oeste
+370,Cadeira,Acessórios,2,1421.87,2024-01-05,1056,Sul
+371,Monitor,Acessórios,1,591.3,2024-01-06,1068,Sul
+372,Fone de ouvido,Acessórios,4,442.58,2024-01-07,1002,Leste
+373,Smartphone,Eletrônicos,2,983.8,2024-01-08,1000,Leste
+374,Fone de ouvido,Acessórios,1,642.66,2024-01-09,1057,Oeste
+375,Notebook,Eletrônicos,2,86.81,2024-01-10,1037,Sul
+376,Monitor,Acessórios,3,276.42,2024-01-11,1014,Sul
+377,Monitor,Acessórios,2,1088.16,2024-01-12,1033,Sul
+378,Notebook,Eletrônicos,2,1005.44,2024-01-13,1060,Sul
+379,Smartphone,Eletrônicos,1,89.29,2024-01-14,1034,Sul
+380,Notebook,Eletrônicos,1,371.86,2024-01-15,1063,Norte
+381,Fone de ouvido,Acessórios,1,385.06,2024-01-16,1024,Leste
+382,Mouse,Acessórios,2,1024.24,2024-01-17,1023,Norte
+383,Monitor,Acessórios,3,78.58,2024-01-18,1011,Sul
+384,Teclado,Acessórios,4,200.96,2024-01-19,1017,Oeste
+385,Teclado,Acessórios,4,1209.88,2024-01-20,1014,Oeste
+386,Fone de ouvido,Acessórios,1,308.89,2024-01-21,1079,Sul
+387,Tablet,Eletrônicos,1,996.48,2024-01-22,1026,Sul
+388,Cadeira,Acessórios,2,395.37,2024-01-23,1071,Oeste
+389,Notebook,Eletrônicos,4,194.19,2024-01-24,1059,Norte
+390,Notebook,Eletrônicos,1,402.6,2024-01-25,1045,Norte
+391,Tablet,Eletrônicos,3,1097.29,2024-01-26,1088,Sul
+392,Tablet,Eletrônicos,3,1290.76,2024-01-27,1016,Norte
+393,Fone de ouvido,Acessórios,1,1253.82,2024-01-28,1092,Oeste
+394,Fone de ouvido,Acessórios,1,625.92,2024-01-29,1052,Norte
+395,Tablet,Eletrônicos,4,1018.72,2024-01-30,1007,Sul
+396,Monitor,Acessórios,4,347.23,2024-01-31,1078,Oeste
+397,Fone de ouvido,Acessórios,2,475.06,2024-02-01,1026,Norte
+398,Mouse,Acessórios,4,1349.69,2024-02-02,1045,Leste
+399,Fone de ouvido,Acessórios,3,68.85,2024-02-03,1049,Oeste
+400,Notebook,Eletrônicos,3,173.99,2024-02-04,1070,Oeste
+401,Fone de ouvido,Acessórios,1,351.44,2024-02-05,1002,Leste
+402,Monitor,Acessórios,4,88.47,2024-02-06,1092,Leste
+403,Tablet,Eletrônicos,2,313.08,2024-02-07,1063,Oeste
+404,Notebook,Eletrônicos,3,895.41,2024-02-08,1043,Leste
+405,Fone de ouvido,Acessórios,3,661.07,2024-02-09,1052,Sul
+406,Monitor,Acessórios,2,1344.37,2024-02-10,1023,Sul
+407,Mouse,Acessórios,2,1235.29,2024-02-11,1059,Sul
+408,Fone de ouvido,Acessórios,3,545.64,2024-02-12,1002,Oeste
+409,Monitor,Acessórios,3,426.16,2024-02-13,1019,Leste
+410,Mouse,Acessórios,2,600.55,2024-02-14,1045,Leste
+411,Tablet,Eletrônicos,3,905.93,2024-02-15,1014,Norte
+412,Fone de ouvido,Acessórios,1,438.69,2024-02-16,1024,Norte
+413,Mouse,Acessórios,1,955.02,2024-02-17,1093,Leste
+414,Notebook,Eletrônicos,2,643.65,2024-02-18,1077,Leste
+415,Tablet,Eletrônicos,4,850.47,2024-02-19,1070,Leste
+416,Notebook,Eletrônicos,2,682.38,2024-02-20,1016,Oeste
+417,Teclado,Acessórios,2,476.98,2024-02-21,1083,Leste
+418,Smartphone,Eletrônicos,4,1425.26,2024-02-22,1099,Norte
+419,Fone de ouvido,Acessórios,4,1157.23,2024-02-23,1008,Oeste
+420,Mouse,Acessórios,4,253.16,2024-02-24,1037,Leste
+421,Smartphone,Eletrônicos,1,1309.28,2024-02-25,1047,Norte
+422,Smartphone,Eletrônicos,3,756.78,2024-02-26,1059,Oeste
+423,Mouse,Acessórios,1,1347.1,2024-02-27,1062,Leste
+424,Tablet,Eletrônicos,3,1209.79,2024-02-28,1085,Leste
+425,Fone de ouvido,Acessórios,1,666.56,2024-02-29,1001,Leste
+426,Teclado,Acessórios,3,82.58,2024-03-01,1087,Oeste
+427,Notebook,Eletrônicos,1,439.58,2024-03-02,1071,Norte
+428,Monitor,Acessórios,4,835.37,2024-03-03,1010,Norte
+429,Notebook,Eletrônicos,2,968.54,2024-03-04,1063,Sul
+430,Monitor,Acessórios,1,423.94,2024-03-05,1076,Leste
+431,Notebook,Eletrônicos,3,252.07,2024-03-06,1080,Sul
+432,Mouse,Acessórios,4,1260.65,2024-03-07,1071,Sul
+433,Teclado,Acessórios,1,1477.38,2024-03-08,1020,Norte
+434,Fone de ouvido,Acessórios,1,812.25,2024-03-09,1017,Oeste
+435,Monitor,Acessórios,4,298.93,2024-03-10,1093,Oeste
+436,Fone de ouvido,Acessórios,1,444.85,2024-03-11,1063,Norte
+437,Fone de ouvido,Acessórios,2,76.67,2024-03-12,1081,Oeste
+438,Fone de ouvido,Acessórios,1,1375.73,2024-03-13,1094,Sul
+439,Cadeira,Acessórios,2,220.74,2024-03-14,1037,Leste
+440,Tablet,Eletrônicos,2,885.95,2024-03-15,1031,Norte
+441,Notebook,Eletrônicos,4,447.38,2024-03-16,1010,Leste
+442,Fone de ouvido,Acessórios,1,853.56,2024-03-17,1044,Oeste
+443,Notebook,Eletrônicos,4,994.56,2024-03-18,1088,Leste
+444,Fone de ouvido,Acessórios,1,1253.13,2024-03-19,1032,Oeste
+445,Monitor,Acessórios,1,349.31,2024-03-20,1040,Oeste
+446,Tablet,Eletrônicos,3,65.94,2024-03-21,1007,Sul
+447,Tablet,Eletrônicos,1,248.48,2024-03-22,1010,Oeste
+448,Mouse,Acessórios,4,1355.03,2024-03-23,1085,Sul
+449,Cadeira,Acessórios,2,1317.14,2024-03-24,1050,Sul
+450,Mouse,Acessórios,1,916.25,2024-03-25,1087,Sul
+451,Mouse,Acessórios,3,920.75,2024-03-26,1040,Norte
+452,Mouse,Acessórios,4,1014.3,2024-03-27,1016,Norte
+453,Mouse,Acessórios,1,304.29,2024-03-28,1075,Oeste
+454,Mouse,Acessórios,4,1375.9,2024-03-29,1045,Sul
+455,Teclado,Acessórios,3,657.22,2024-03-30,1031,Norte
+456,Tablet,Eletrônicos,3,605.55,2024-03-31,1078,Sul
+457,Mouse,Acessórios,4,802.43,2024-04-01,1079,Leste
+458,Fone de ouvido,Acessórios,1,118.1,2024-04-02,1053,Leste
+459,Tablet,Eletrônicos,2,291.11,2024-04-03,1085,Leste
+460,Tablet,Eletrônicos,3,1120.15,2024-04-04,1091,Oeste
+461,Smartphone,Eletrônicos,1,170.06,2024-04-05,1019,Sul
+462,Teclado,Acessórios,1,924.57,2024-04-06,1032,Leste
+463,Mouse,Acessórios,2,405.76,2024-04-07,1073,Norte
+464,Notebook,Eletrônicos,3,614.48,2024-04-08,1039,Leste
+465,Monitor,Acessórios,3,468.61,2024-04-09,1031,Leste
+466,Cadeira,Acessórios,1,565.73,2024-04-10,1096,Leste
+467,Fone de ouvido,Acessórios,1,1092.62,2024-04-11,1001,Oeste
+468,Notebook,Eletrônicos,2,480.83,2024-04-12,1096,Norte
+469,Teclado,Acessórios,2,871.29,2024-04-13,1032,Sul
+470,Monitor,Acessórios,3,740.27,2024-04-14,1076,Norte
+471,Teclado,Acessórios,4,1012.32,2024-04-15,1029,Sul
+472,Fone de ouvido,Acessórios,3,1408.4,2024-04-16,1032,Oeste
+473,Tablet,Eletrônicos,1,1112.23,2024-04-17,1076,Oeste
+474,Monitor,Acessórios,3,361.66,2024-04-18,1025,Oeste
+475,Tablet,Eletrônicos,4,95.22,2024-04-19,1021,Oeste
+476,Fone de ouvido,Acessórios,2,430.28,2024-04-20,1065,Sul
+477,Notebook,Eletrônicos,4,912.86,2024-04-21,1037,Leste
+478,Fone de ouvido,Acessórios,4,124.57,2024-04-22,1089,Sul
+479,Notebook,Eletrônicos,4,769.73,2024-04-23,1045,Norte
+480,Monitor,Acessórios,2,915.42,2024-04-24,1014,Oeste
+481,Monitor,Acessórios,4,534.65,2024-04-25,1097,Oeste
+482,Mouse,Acessórios,4,1167.82,2024-04-26,1043,Norte
+483,Teclado,Acessórios,4,204.57,2024-04-27,1048,Sul
+484,Mouse,Acessórios,1,158.95,2024-04-28,1074,Leste
+485,Teclado,Acessórios,4,1105.87,2024-04-29,1060,Leste
+486,Mouse,Acessórios,2,768.46,2024-04-30,1066,Norte
+487,Tablet,Eletrônicos,4,1048.18,2024-05-01,1005,Leste
+488,Monitor,Acessórios,4,680.5,2024-05-02,1008,Sul
+489,Notebook,Eletrônicos,2,407.28,2024-05-03,1005,Sul
+490,Teclado,Acessórios,4,1237.7,2024-05-04,1072,Norte
+491,Fone de ouvido,Acessórios,2,1209.15,2024-05-05,1094,Sul
+492,Teclado,Acessórios,4,1057.31,2024-05-06,1031,Oeste
+493,Notebook,Eletrônicos,2,444.61,2024-05-07,1040,Norte
+494,Mouse,Acessórios,4,905.83,2024-05-08,1075,Sul
+495,Teclado,Acessórios,4,573.41,2024-05-09,1007,Norte
+496,Cadeira,Acessórios,1,182.79,2024-05-10,1071,Leste
+497,Tablet,Eletrônicos,1,1380.1,2024-05-11,1049,Sul
+498,Monitor,Acessórios,4,248.39,2024-05-12,1091,Oeste
+499,Notebook,Eletrônicos,4,1427.84,2024-05-13,1061,Sul
+500,Monitor,Acessórios,3,696.71,2024-05-14,1083,Norte
