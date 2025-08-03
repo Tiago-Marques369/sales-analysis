@@ -19,9 +19,9 @@ OUTPUT_PATH = os.getenv("S3_PATH", "output/processed/")
 df = spark.read.option("header", True).option("inferSchema", True).csv(INPUT_PATH)
 
 # Basic Cleaning
-df_clean = df.dropna(subset=["order_id", "product", "quantity", "price"])
-df_clean = df_clean.withColumn("quantity", col("quantity").cast("int"))
-df_clean = df_clean.withColumn("price", col("price").cast("double"))
+df_clean = df.dropna(subset=["order_id", "product", "quantity", "price"]) 
+df_clean = df_clean.withColumn("quantity", col("quantity").cast("int")) 
+df_clean = df_clean.withColumn("price", col("price").cast("double")) 
 df_clean = df_clean.withColumn("total", col("quantity") * col("price"))
 
 # Aggregated Metrics
