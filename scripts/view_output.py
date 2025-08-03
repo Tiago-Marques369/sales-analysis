@@ -1,20 +1,29 @@
-from pyspark.sql import SparkSession
 import argparse
+import os
+from pyspark.sql import SparkSession
+from dotenv import load_dotenv
 
 def main():
-    parser = argparse.ArgumentParser(description="View ETL output with PySpark")
-    parser.add_argument("--path", required=True, help="Path to output folder (local)")
+    load_dotenv()  # Loading .env variables
+
+    parser = argparse.ArgumentParser(description="View parquet output with PySpark")
+    parser.add_argument('--path', type=str, required=True, help='Path to parquet files (local or s3a)')
     args = parser.parse_args()
 
-    spark = SparkSession.builder.appName("ViewOutput").getOrCreate()
+    spark = (
+        SparkSession.builder
+        .appName("ViewOutput")
+        .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem")
+        .config("spark.hadoop.fs.s3a.access.key", os.getenv("AWS_ACCESS_KEY_ID"))
+        .config("spark.hadoop.fs.s3a.secret.key", os.getenv("AWS_SECRET_ACCESS_KEY"))
+        .config("spark.hadoop.fs.s3a.endpoint", "s3.amazonaws.com")
+        .getOrCreate()
+    )
 
-    print(f"\nReading from: {args.path}")
     df = spark.read.parquet(args.path)
-    df.show(20, truncate=False)
-    df.printSchema()
+    df.show(truncate=False)
 
     spark.stop()
-
 
 if __name__ == "__main__":
     main()

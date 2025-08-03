@@ -72,10 +72,15 @@ spark-submit   --packages org.apache.hadoop:hadoop-aws:3.3.2   scripts/etl.py
 
 ---
 
-# Viewing the Results Locally
+# Viewing the Results Locally or AWS
 If you saved the output locally (default folder: output/processed), run the following command to display the data using PySpark:
 
     python scripts/view_output.py --path output/processed/revenue_by_category
+    
+If yoy save the output on AWS S3:
+
+    spark-submit --packages org.apache.hadoop:hadoop-aws:3.3.2 scripts/view_output.py --path s3a://your-bucket/output/revenue_by_category
+
 
 ## 📊 Exploratory Analysis
 
