@@ -60,7 +60,6 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Edit the .env file with your actual AWS credentials or comment out the AWS_ACCESS_KEY and SECRET_ACCESS lines, so the file will be generated in the local /output/processed directory
-r 
 
 # Optional: export credentials directly in the terminal 
 export AWS_ACCESS_KEY_ID=xxxx
