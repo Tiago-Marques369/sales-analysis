@@ -7,9 +7,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initializating Spark
-spark = SparkSession.builder \
-    .appName("Sales Analysis") \
+spark = (
+    SparkSession.builder
+    .appName("Sales Analysis")
+    .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem")
+    .config("spark.hadoop.fs.s3a.access.key", os.getenv("AWS_ACCESS_KEY_ID"))
+    .config("spark.hadoop.fs.s3a.secret.key", os.getenv("AWS_SECRET_ACCESS_KEY"))
+    .config("spark.hadoop.fs.s3a.endpoint", "s3.amazonaws.com")
+    .config("spark.hadoop.fs.s3a.path.style.access", "true")
     .getOrCreate()
+)
 
 # Variables of Input Path (Local) and Output Path to S3
 INPUT_PATH = "data/raw/sales_data.csv"
