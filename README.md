@@ -73,7 +73,7 @@ spark-submit   --packages org.apache.hadoop:hadoop-aws:3.3.2   scripts/etl.py
 export AWS_ACCESS_KEY_ID=xxxx
 export AWS_SECRET_ACCESS_KEY=xxxx
 
-# Optional: If you want o run locally, comment the AWS Keys on .env file and create /output/processed directory
+# Optional: If you want o run locally, comment the AWS Keys on .env file and create /output/processed directory.
 
 ---
 
