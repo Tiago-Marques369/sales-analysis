@@ -43,7 +43,7 @@ sales-analysis/
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run
 
 ```bash
 git clone https://github.com/yourusername/sales-analysis.git
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 # Set up AWS credentials
 cp .env.example .env
 
-# Edit the .env file with your actual AWS credentials or comment out the AWS_ACCESS_KEY and SECRET_ACCESS lines, so the file will be generated in the local /output/processed directory
+Edit the .env file with your actual AWS credentials or comment out the AWS_ACCESS_KEY and SECRET_ACCESS lines, so the file will be generated in the local /output/processed directory
 
 # Optional: export credentials directly in the terminal 
 export AWS_ACCESS_KEY_ID=xxxx
@@ -68,6 +68,12 @@ export AWS_SECRET_ACCESS_KEY=xxxx
 # Run the ETL pipeline
 spark-submit   --packages org.apache.hadoop:hadoop-aws:3.3.2   scripts/etl.py
 ```
+
+# Optional: Export credentials directly in the terminal if you have some problem with AWS Keys 
+export AWS_ACCESS_KEY_ID=xxxx
+export AWS_SECRET_ACCESS_KEY=xxxx
+
+# Optional: If you want o run locally, comment the AWS Keys on .env file and create /output/processed directory
 
 ---
 
